@@ -1,0 +1,24 @@
+{
+  "port": "8080",
+  "views": "views",
+  "public": "/public",
+  "db": {
+    "file": "db.json"
+  },
+  "upload": {
+    "path": "/public/upload",
+    "file": "upload"
+  },
+  "mail": {
+    "subject": "Сообщение с сайта",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 465,
+      "secure": true,
+      "auth": {
+        "user": "nodeMailer2811@gmail.com",
+        "pass": "P5Y3S68lNnim8WF"
+      }
+    }
+  }
+}

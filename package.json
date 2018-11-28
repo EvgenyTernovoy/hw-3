@@ -1,0 +1,19 @@
+{
+  "name": "hw-3_express",
+  "version": "0.0.1",
+  "author": "Eugeny Ternovoy",
+  "license": "ISC",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "formidable": "^1.2.1",
+    "lowdb": "^1.0.0",
+    "nodemailer": "^4.7.0",
+    "pug": "^2.0.3"
+  }
+}
